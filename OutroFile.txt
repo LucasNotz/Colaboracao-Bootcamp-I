@@ -1,1 +1,0 @@
-Criei esse outro para dizer que eu me adicionei como colaborador para fazer esse push, mas antes eu fiz um pull request, ainda quando estava sem permissão/colaborador. Digo isso para que o senhor possa me informar de algum erro, caso eu tenha cometido algum.
