@@ -12,7 +12,9 @@ if __name__ == '__main__':
 
     text = tk.Text(master = window)
     text.pack()
-
+    
+    #modificação feita após fork
+    button = tk.Button(master = window, text = "Butão de mod")
+    button.pack(pady =10)
 
     window.mainloop()
-
